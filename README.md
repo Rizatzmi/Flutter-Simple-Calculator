@@ -2,7 +2,7 @@
 
 A simple calculator app built using flutter and using BLoC state management to handle use cases and themes.
 
-## Screenshoots
+## Preview
 
 ### Light Theme
 ![IMG_20220915_134447](https://user-images.githubusercontent.com/75655968/190336963-08e0c15a-8c46-46f6-958d-19a2aff36268.jpg)
