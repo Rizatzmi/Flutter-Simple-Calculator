@@ -1,16 +1,11 @@
-# simple_calculator
+# Simple-Calculator
 
-A new Flutter project.
+A simple calculator app built using flutter and using BLoC state management to handle use cases and themes.
 
-## Getting Started
+## Screenshoots
 
-This project is a starting point for a Flutter application.
+### Light Theme
+![IMG_20220915_134447](https://user-images.githubusercontent.com/75655968/190336963-08e0c15a-8c46-46f6-958d-19a2aff36268.jpg)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Dark Theme
+![IMG_20220915_134514](https://user-images.githubusercontent.com/75655968/190336819-c7e39cb0-11b5-4dd0-bca1-721a780fbb61.jpg)
